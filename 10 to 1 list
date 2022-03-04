@@ -1,0 +1,9 @@
+
+n=int(input('enter value: '))
+l=[x for x in range(n,0,-1)]
+print(l)
+: #program to merge two tuples.
+t1=("apple","mango","banana")
+t2=("tomato","potato","brinjal")
+t3=t1+t2
+print(t3)
